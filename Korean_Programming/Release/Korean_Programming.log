@@ -1,0 +1,23 @@
+﻿  Error.cpp
+  Express.cpp
+  iparibool.cpp
+  iparidata.cpp
+  iparierror.cpp
+  iparifunc.cpp
+  iparinum.cpp
+  iparistr.cpp
+  main.cpp
+C:\Users\ileum\source\project\Korean_Programming\Korean_Programming\main.cpp(100,1): warning C4326: 'wmain'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\ileum\source\project\Korean_Programming\Korean_Programming\main.cpp(101,12): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+C:\Users\ileum\source\project\Korean_Programming\Korean_Programming\main.cpp(101,9): warning C4101: 's' :참조되지 않은 지역 변수입니다.
+  Parser.cpp
+  Polish.cpp
+  Statement.cpp
+C:\Users\ileum\source\project\Korean_Programming\Korean_Programming\Statement.cpp(155,6): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+  Statement_block.cpp
+  Symbol.cpp
+  코드를 생성하고 있습니다.
+  Compiler version has changed, fall back to full compilation.
+  All 1994 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Korean_Programming.vcxproj -> C:\Users\ileum\source\project\Korean_Programming\Release\Korean_Programming.exe

@@ -1,0 +1,3 @@
+﻿  Statement.cpp
+C:\Users\ileum\source\project\Korean_Programming\Korean_Programming\Statement.cpp(155): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+  Korean_Programming.vcxproj -> C:\Users\ileum\source\project\Korean_Programming\Debug\Korean_Programming.exe

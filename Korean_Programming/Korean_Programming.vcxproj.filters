@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Compile">
+      <UniqueIdentifier>{720033ef-7e9a-4986-94af-9f54658555b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Def">
+      <UniqueIdentifier>{3d198275-a523-4652-9228-28069b3d8f2a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Error.cpp">
+      <Filter>Def</Filter>
+    </ClCompile>
+    <ClCompile Include="Express.cpp">
+      <Filter>Def</Filter>
+    </ClCompile>
+    <ClCompile Include="Parser.cpp">
+      <Filter>Def</Filter>
+    </ClCompile>
+    <ClCompile Include="Polish.cpp">
+      <Filter>Def</Filter>
+    </ClCompile>
+    <ClCompile Include="Statement.cpp">
+      <Filter>Def</Filter>
+    </ClCompile>
+    <ClCompile Include="Symbol.cpp">
+      <Filter>Def</Filter>
+    </ClCompile>
+    <ClCompile Include="Statement_block.cpp">
+      <Filter>Def</Filter>
+    </ClCompile>
+    <ClCompile Include="iparibool.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="iparidata.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="iparierror.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="iparifunc.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="iparinum.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="iparistr.cpp">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Def.h">
+      <Filter>Def</Filter>
+    </ClInclude>
+    <ClInclude Include="_Lexer.h">
+      <Filter>Def</Filter>
+    </ClInclude>
+    <ClInclude Include="Error.h">
+      <Filter>Def</Filter>
+    </ClInclude>
+    <ClInclude Include="Parser.h">
+      <Filter>Def</Filter>
+    </ClInclude>
+    <ClInclude Include="Statement.h">
+      <Filter>Def</Filter>
+    </ClInclude>
+    <ClInclude Include="Symbol.h">
+      <Filter>Def</Filter>
+    </ClInclude>
+    <ClInclude Include="opcode.h">
+      <Filter>Compile</Filter>
+    </ClInclude>
+    <ClInclude Include="iparidata.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="a.ipari">
+      <Filter>소스 파일</Filter>
+    </None>
+  </ItemGroup>
+</Project>
