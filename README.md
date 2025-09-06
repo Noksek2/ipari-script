@@ -1,8 +1,8 @@
-# 이파리 스크립트 (ipari script)
+# 이파리 스크립트 (ipari script) 0.1.0
 
 2019/11/30 최초 공개<br>
 2023/05/27 소스코드 업로드<br>
-2025/0219 최종 수정<br><br>
+2025/02/19 최종 수정<br><br>
 ![Image](https://github.com/user-attachments/assets/9376f1e2-51f4-46aa-bc27-7a73cbb29fbd)
 <br>
 이파리 스크립트(이파리 언어)는 사용하기 쉬우며, 문법이 간결하며, 입문하기 쉽게 구상된 동적 타입 인터프리터 언어입니다.
