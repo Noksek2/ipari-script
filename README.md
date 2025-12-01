@@ -1,4 +1,5 @@
 # 이파리 스크립트 (ipari script) 0.1
+![License](https://img.shields.io/github/license/Noksek2/ipari-script)
 
 2019/11/30 최초 공개<br>
 2023/05/27 소스코드 업로드<br>
