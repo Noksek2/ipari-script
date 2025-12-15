@@ -3,8 +3,7 @@
 
 2019/11/30 최초 공개<br>
 2023/05/27 소스코드 업로드<br>
-2025/02/19 Readme.md 수정<br><br>
-2025/09/08 Readme.md 최종 수정<br><br>
+
 
 ![Image](https://github.com/user-attachments/assets/9376f1e2-51f4-46aa-bc27-7a73cbb29fbd)
 <br>
