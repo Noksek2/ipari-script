@@ -1,5 +1,5 @@
 # Ipari Script
-
+![Image](https://github.com/user-attachments/assets/9376f1e2-51f4-46aa-bc27-7a73cbb29fbd)
 **Ipari Script** is a dynamically-typed interpreter language designed to be easy to use, with concise syntax and a low barrier to entry.
 
 ## Overview
