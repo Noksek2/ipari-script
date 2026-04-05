@@ -5,7 +5,7 @@
 
 ## Overview
 
-Originally created during high school as a study project, this interpreter language is **no longer in active development**. Beyond the features shown in the example files, there is very little additional functionality. The implementation is considered unstable for actual execution. Please use this for reference only.
+It's a language that I made because I had a hard time in high school. This interpreter language is **no longer in active development**. Beyond the features shown in the example files, there is very little additional functionality. The implementation is considered unstable for actual execution. Please use this for reference only.
 
 **Key Details:**
 - **Implementation Language:** C++
